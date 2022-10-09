@@ -1,0 +1,7 @@
+/home/itac/Documentos/07 proyects fortify/first project/HelloWorldApp/HelloWorldApp.web/bin/Release/net6.0/publish/HelloWorldApp.web
+/home/itac/Documentos/07 proyects fortify/first project/HelloWorldApp/HelloWorldApp.web/bin/Release/net6.0/publish/appsettings.Development.json
+/home/itac/Documentos/07 proyects fortify/first project/HelloWorldApp/HelloWorldApp.web/bin/Release/net6.0/publish/appsettings.json
+/home/itac/Documentos/07 proyects fortify/first project/HelloWorldApp/HelloWorldApp.web/bin/Release/net6.0/publish/HelloWorldApp.web.dll
+/home/itac/Documentos/07 proyects fortify/first project/HelloWorldApp/HelloWorldApp.web/bin/Release/net6.0/publish/HelloWorldApp.web.deps.json
+/home/itac/Documentos/07 proyects fortify/first project/HelloWorldApp/HelloWorldApp.web/bin/Release/net6.0/publish/HelloWorldApp.web.runtimeconfig.json
+/home/itac/Documentos/07 proyects fortify/first project/HelloWorldApp/HelloWorldApp.web/bin/Release/net6.0/publish/HelloWorldApp.web.pdb
